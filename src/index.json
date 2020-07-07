@@ -1,0 +1,4 @@
+{
+  "name": "@windmillcss/calendar",
+  "components": [{ "name": "Calendar", "path": "./calendar.html" }]
+}
